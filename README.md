@@ -2,7 +2,7 @@
 
 A simple but powerful tool to merge 2-4 PDF files into a single document. Built with Javascript.
 
-![image]()
+![image](https://github.com/Parshu2496/PDF-Merger/blob/main/Screenshot%202025-07-16%20203643.png)
 
 ## Features
 
