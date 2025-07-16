@@ -2,7 +2,7 @@
 
 A simple but powerful tool to merge 2-4 PDF files into a single document. Built with Javascript.
 
-![Application Screenshot](https://placehold.co/1200x600?text=PDF+Merger+Application+Screenshot+with+Upload+and+Merge+Buttons)
+![image]()
 
 ## Features
 
